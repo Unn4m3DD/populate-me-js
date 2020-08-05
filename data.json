@@ -1,0 +1,112 @@
+[
+  {
+    "user_name": "Marie",
+    "bio": "Mollit reprehenderit minim non. Adipisicing excepteur proident ullamco exercitation sunt enim pariatur laboris laboris. Mollit eu magna mollit do ut irure tempor laborum labore nisi magna occaecat amet. Irure dolor mollit tempor Lorem occaecat.",
+    "avatar": "https://picsum.photos/seed/44/300/300",
+    "friends": [
+      {
+        "user_name": "Kaia"
+      },
+      {
+        "user_name": "Lauren"
+      },
+      {
+        "user_name": "Cedric"
+      },
+      {
+        "user_name": "Achilles"
+      },
+      {
+        "user_name": "Nalani"
+      }
+    ]
+  },
+  {
+    "user_name": "Gage",
+    "bio": "Qui sint aute consequat excepteur. Consectetur voluptate amet aute dolor eu consectetur tempor consequat aute. Reprehenderit ad magna ut occaecat consectetur ea velit aliquip Lorem et ipsum tempor adipisicing. Aliqua quis tempor occaecat voluptate elit. Lorem Lorem commodo cillum pariatur ullamco dolore nisi veniam ipsum voluptate commodo nostrud sint. Adipisicing quis Lorem culpa commodo cupidatat cillum reprehenderit. Occaecat et anim commodo ipsum ut pariatur occaecat elit enim sint esse aliquip exercitation aute. Amet nisi qui id nostrud nisi deserunt incididunt cillum consectetur ipsum cillum.",
+    "avatar": "https://picsum.photos/seed/36/300/300",
+    "friends": [
+      {
+        "user_name": "Paloma"
+      },
+      {
+        "user_name": "Demi"
+      },
+      {
+        "user_name": "Aiden"
+      },
+      {
+        "user_name": "Drake"
+      },
+      {
+        "user_name": "Nora"
+      }
+    ]
+  },
+  {
+    "user_name": "Mabel",
+    "bio": "Amet do officia adipisicing commodo excepteur aute nostrud officia in dolore aliquip eiusmod. Lorem nostrud Lorem enim est eiusmod anim consequat. Deserunt do ex ut magna in qui. Laborum consequat aute pariatur deserunt laboris reprehenderit ex. Ea do ipsum duis.",
+    "avatar": "https://picsum.photos/seed/92/300/300",
+    "friends": [
+      {
+        "user_name": "Rayna"
+      },
+      {
+        "user_name": "Killian"
+      },
+      {
+        "user_name": "Alannah"
+      },
+      {
+        "user_name": "Frida"
+      },
+      {
+        "user_name": "Savanna"
+      }
+    ]
+  },
+  {
+    "user_name": "Winston",
+    "bio": "Occaecat sit qui quis officia exercitation nisi consectetur aute. In proident non aliqua. Velit pariatur do consectetur ipsum cillum minim culpa enim ex Lorem tempor. Officia magna magna anim ullamco sit pariatur fugiat aute. Sint irure et laboris aliqua laborum irure aliqua exercitation incididunt ex veniam nulla.",
+    "avatar": "https://picsum.photos/seed/20/300/300",
+    "friends": [
+      {
+        "user_name": "Ryleigh"
+      },
+      {
+        "user_name": "Myla"
+      },
+      {
+        "user_name": "Reyna"
+      },
+      {
+        "user_name": "Coraline"
+      },
+      {
+        "user_name": "Bjorn"
+      }
+    ]
+  },
+  {
+    "user_name": "Leila",
+    "bio": "Consectetur nostrud anim aliquip laboris aliquip elit esse adipisicing Lorem. Cillum consequat aute do ad veniam dolor in consequat. Laborum eu nisi dolore ad dolor quis ullamco ex proident occaecat aliquip. Ad irure quis dolore in dolore laboris incididunt non. Mollit laboris irure deserunt adipisicing quis exercitation consequat sit. Fugiat excepteur officia deserunt ullamco do cupidatat nulla eu id eu laborum officia deserunt cupidatat exercitation. Laboris fugiat aliqua sunt. Excepteur et eu mollit labore consectetur.",
+    "avatar": "https://picsum.photos/seed/94/300/300",
+    "friends": [
+      {
+        "user_name": "Marley"
+      },
+      {
+        "user_name": "Ronald"
+      },
+      {
+        "user_name": "Waylon"
+      },
+      {
+        "user_name": "Rosalee"
+      },
+      {
+        "user_name": "Brett"
+      }
+    ]
+  }
+]
